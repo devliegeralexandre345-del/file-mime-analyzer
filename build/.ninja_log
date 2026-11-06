@@ -1,0 +1,7 @@
+# ninja log v5
+1	198	1793980191613721733	CMakeFiles/unit_tests.dir/tests/test.cpp.o	4d8da829a007995f
+1	201	1793980191616721841	CMakeFiles/file-mime-analyzer.dir/src/mime_analyzer.cpp.o	75710fe8e2a70286
+1	202	1793980191617721878	CMakeFiles/unit_tests.dir/src/mime_analyzer.cpp.o	c20b42fffbac6123
+202	247	1793980191662423043	unit_tests	fdd381b14769da4
+1	252	1793980191667723689	CMakeFiles/file-mime-analyzer.dir/src/main.cpp.o	40609d81e59017c2
+252	297	1793980191712723732	file-mime-analyzer	3801d103917ec119

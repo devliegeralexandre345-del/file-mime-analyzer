@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/file-mime-analyzer/build/CMakeFiles/file-mime-analyzer.dir
+/home/ubuntu/cpp-generator/workspace/file-mime-analyzer/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/file-mime-analyzer/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/file-mime-analyzer/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/file-mime-analyzer/build/CMakeFiles/rebuild_cache.dir
